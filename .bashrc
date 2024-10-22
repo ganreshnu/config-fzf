@@ -1,3 +1,3 @@
-. "$(dirname ${BASH_SOURCE[0]})/fzf.sh"
+eval "$(fzf --bash)"
 
 # vim: ft=bash
